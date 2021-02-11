@@ -9,8 +9,8 @@ function App() {
   return (
     <div className="App">
       <main>
-        <div className='search-bar'>
-          <input type='text' className='search-box' placeholder='Search...'></input>
+        <div className='search-box'>
+          <input type='text' className='search-bar' placeholder='Search...'></input>
         </div>
 
       </main>
